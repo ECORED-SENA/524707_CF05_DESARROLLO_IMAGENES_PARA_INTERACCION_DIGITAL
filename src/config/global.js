@@ -171,14 +171,110 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Animación funcional',
+      significado:
+        'movimiento gráfico que indica cambios, acciones o transiciones en la interfaz.',
+    },
+    {
+      termino: 'Arquitectura de información',
+      significado:
+        'proceso de clasificar y organizar contenidos para facilitar la navegación.',
+    },
+    {
+      termino: 'Experiencia de usuario (UX)',
+      significado:
+        'percepción y respuesta del usuario al interactuar con un entorno digital.',
+    },
+    {
+      termino: 'Flujo interactivo',
+      significado:
+        'secuencia de acciones que realiza el usuario dentro del sistema.',
+    },
+    {
+      termino: 'Identidad visual',
+      significado:
+        'conjunto de elementos gráficos que permiten reconocer un proyecto multimedia.',
+    },
+    {
+      termino: 'Interfaz digital',
+      significado:
+        'espacio gráfico donde el usuario interactúa con un sistema o producto multimedia.',
+    },
+    {
+      termino: 'Jerarquía visual',
+      significado:
+        'organización de elementos según su importancia dentro de la pantalla.',
+    },
+    {
+      termino: 'Línea gráfica',
+      significado:
+        'normas visuales que orientan el uso coherente de colores, tipografías e imágenes.',
+    },
+    {
+      termino: 'Retícula',
+      significado:
+        'estructura de columnas y módulos que facilita ordenar el contenido.',
+    },
+    {
+      termino: '<i>Wireframe</i>',
+      significado:
+        'esquema básico que representa la distribución funcional de una interfaz.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Adobe. (2024). Ayuda de Premiere Pro (escritorio). Centro de ayuda de Adobe.',
       link: '',
+    },
+    {
+      referencia: 'Autodesk. (2026). Autodesk Latinoamérica.',
+      link: '',
+    },
+    {
+      referencia: 'Blender Foundation. (2026). Blender: software de animación.',
+      link: '',
+    },
+    {
+      referencia: 'Dragonframe. (2026). Tutoriales de Dragonframe.',
+      link: 'https://www.dragonframe.com/es/tutorials/',
+    },
+    {
+      referencia: 'Garrett, J. J. (2011). The elements of user experience.',
+      link:
+        'https://www.academia.edu/33276128/The_Elements_of_User_Experience_Jesse_James_Garrett',
+    },
+    {
+      referencia:
+        'ISO. (2019). ISO 9241-210: Ergonomics of human-system interaction — Human-centred design for interactive systems.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lasseter, J. (1987). Principles of traditional animation applied to 3D computer animation.',
+      link: 'https://dl.acm.org/doi/10.1145/37401.37407',
+    },
+    {
+      referencia:
+        'Morgan, K. (2004). Information visualization: perception for design (2nd ed.).',
+      link:
+        'https://www.researchgate.net/publication/224285723_Information_Visualization_Perception_for_Design_Second_Edition',
+    },
+    {
+      referencia:
+        'World Wide Web Consortium (W3C). (2025, mayo 6). Web content accessibility guidelines (WCAG) 2.1.',
+      link: 'https://www.w3.org/TR/WCAG21/',
+    },
+    {
+      referencia:
+        'Zambrano Carbo, L. E. (2015). La estructura de las historias: la propuesta de Robert McKee.',
+      link:
+        'https://www.academia.edu/11276761/4_LA_ESTRUCTURA_DE_LAS_HISTORIAS_LA_PROPUESTA_DE_ROBERT_MCKEE',
+    },
+    {
+      referencia:
+        'Zettl, H. (2017). Sight, sound, motion: applied media aesthetics.',
+      link: 'https://faculty.cengage.com/works/9781305578906',
     },
   ],
   creditos: [

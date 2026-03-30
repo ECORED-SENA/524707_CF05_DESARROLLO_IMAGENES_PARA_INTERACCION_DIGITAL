@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Diseño visual, UX y producción de contenidos multimedia',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
@@ -28,28 +28,29 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Cuál es el propósito principal de un wireframe en el diseño multimedia?',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Definir el estilo gráfico final.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Representar la estructura básica y organización del contenido.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Producir elementos audiovisuales finales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Diseñar personajes y escenarios.',
               esCorrecta: false,
             },
           ],
@@ -59,28 +60,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
+            '¿Qué elemento del diseño ayuda a guiar la mirada del usuario a través de una interfaz?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Textura.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Perspectiva.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Línea.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Saturación.',
               esCorrecta: false,
             },
           ],
@@ -89,28 +90,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
+          texto:
+            '¿Cuál es una característica fundamental de las imágenes vectoriales?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Se deforman al escalar.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Funcionan solo para fotografías.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Están compuestas por fórmulas matemáticas.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Usan exclusivamente formato JPG.',
               esCorrecta: false,
             },
           ],
@@ -120,29 +122,29 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
+            '¿Cuál de los siguientes principios de diseño facilita establecer un orden visual claro?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Simulación.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Armonía.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Distorsión.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Jerarquía.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -150,28 +152,29 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
+          texto:
+            'La usabilidad en proyectos multimedia se refiere principalmente a:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'La facilidad con la que el usuario completa tareas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La velocidad del dispositivo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'El número de animaciones incluidas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La cantidad de colores usados.',
               esCorrecta: false,
             },
           ],
@@ -181,28 +184,32 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+            '¿Cuál es la finalidad principal del diseño visual en interfaces digitales?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto:
+                'Facilitar la interacción entre usuario y sistema multimedia.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
-              esCorrecta: false,
+              texto:
+                'Organizar la comunicación visual dentro del entorno digital.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Reducir el número de funciones disponibles al usuario.',
               esCorrecta: false,
             },
+
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Eliminar la estructura funcional del producto multimedia.',
               esCorrecta: false,
             },
           ],
@@ -212,28 +219,28 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+            '¿Qué formato es adecuado para guardar imágenes con transparencia?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'BMP.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'MP3.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'PNG.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'GIF sin transparencia.',
               esCorrecta: false,
             },
           ],
@@ -243,28 +250,30 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+            '¿Qué elemento permite mantener coherencia estética en un producto digital?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Uso aislado de colores y tipografías diferentes.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Aplicación espontánea de imágenes sin organización previa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto:
+                'Definición previa de una identidad gráfica institucional.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Eliminación de criterios compositivos en la interfaz.',
               esCorrecta: false,
             },
           ],
@@ -274,39 +283,58 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+            'El movimiento de cámara en el que la cámara rota sobre su eje vertical se llama:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Tilt.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Pan.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto: 'Zoom.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Corte.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          nsaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+          texto: 'En animación 2D, el “tweening” se refiere a:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Crear todos los fotogramas a mano.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Duplicar escenas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Generar fotogramas intermedios automáticamente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Exportar secuencias.',
               esCorrecta: false,
             },
           ],
@@ -316,18 +344,31 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+            '¿Qué función cumple la jerarquía visual dentro de la interfaz digital?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Distribuir información sin considerar niveles de relevancia.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Ubicar todos los elementos con el mismo tamaño visual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Permitir navegación aleatoria sin rutas funcionales claras.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Organizar los elementos según su importancia informativa.',
               esCorrecta: true,
             },
           ],
@@ -337,19 +378,33 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+            '¿Qué aspecto define la línea gráfica de un proyecto multimedia?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Uso libre de cualquier recurso visual disponible.',
+              esCorrecta: false,
             },
+
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Eliminación de normas visuales durante el desarrollo.',
               esCorrecta: false,
+            },
+
+            {
+              id: 'c',
+              texto:
+                'Aplicación de criterios funcionales sin identidad visual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Conjunto de lineamientos técnicos sobre recursos visuales.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -358,18 +413,28 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
+            '¿Qué propósito tiene el objetivo visual en una interfaz digital?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Disminuir la claridad en la navegación del usuario.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Orientar la atención hacia la acción principal prevista.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Eliminar contrastes cromáticos dentro de la pantalla.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Evitar la organización progresiva del recorrido digital.',
               esCorrecta: false,
             },
           ],
@@ -379,18 +444,28 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+            '¿Qué característica facilita la identificación rápida del contenido central?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Uso de escalas visuales sin relación jerárquica.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Distribución desordenada de elementos interactivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Aplicación uniforme de tipografías sin contraste visual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Jerarquía mediante escalas amplias y contrastantes.',
               esCorrecta: true,
             },
           ],
@@ -400,18 +475,192 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            '¿Qué tipo de plano se usa para mostrar detalle facial o emociones?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Primer plano.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Plano general.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Plano aéreo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Plano secuencia.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+
+        {
+          id: 16,
+          texto:
+            '¿Qué característica distingue el uso de tipografía sans serif en pantalla?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Mayor complejidad visual en textos descriptivos extensos.',
+            },
+            {
+              id: 'b',
+              texto: 'Reducción de la legibilidad en entornos digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Aumento del contraste sin organización jerárquica textual.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Mejora la lectura funcional en contenidos digitales.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Cuál de los siguientes elementos corresponde a un principio del diseño visual aplicado a interfaces digitales?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Resolución de pantalla.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Renderizado 3D.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Contraste.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Frecuencia de muestreo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto: 'En el lenguaje audiovisual, la continuidad se usa para:',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Mantener fluidez entre los planos para evitar saltos bruscos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Cambiar el estilo de color entre escenas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Aumentar la saturación en posproducción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Agregar personajes secundarios.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué recurso gráfico sintetiza acciones dentro de la interfaz digital?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Imágenes decorativas sin relación con la navegación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Iconos funcionales asociados a tareas del sistema.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Textos extensos que sustituyen elementos visuales interactivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Elementos gráficos sin coherencia con la línea visual.',
+              esCorrecta: false,
+            },
+          ],
+
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+
+          texto:
+            '¿Cuál afirmación corresponde correctamente al proceso de producción gráfica digital descrito en el Componente formativo?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'La composición final debe realizarse solo con imágenes en alta resolución sin optimización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'La selección de medios de captura es irrelevante si la edición es digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'La optimización de imágenes reduce peso sin afectar su uso en el proyecto multimedia.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Es obligatorio trabajar exclusivamente en formato SVG para todos los contenidos.',
               esCorrecta: false,
             },
           ],
