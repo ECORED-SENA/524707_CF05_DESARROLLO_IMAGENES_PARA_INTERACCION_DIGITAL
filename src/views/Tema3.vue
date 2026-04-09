@@ -221,10 +221,10 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En proyectos multimedia aplicados, el desarrollo de animaciones funcionales requiere considerar aspectos como la duración, la fluidez del movimiento y la correspondencia con la línea gráfica del producto digital. Una animación excesivamente rápida o compleja puede generar confusión o dificultar la comprensión de las acciones, mientras que una animación progresiva y bien integrada favorece la orientación del usuario y fortalece la continuidad de la interacción.
-    p.mb-5 Por ejemplo, en una pieza audiovisual educativa al video del curso Conservación de frutas y verduras, pueden integrarse títulos animados de entrada, desplazamientos suaves de rótulos informativos o efectos de transición entre escenas que indiquen cambios temáticos dentro del contenido. Estos recursos permiten comunicar la progresión narrativa, facilitar la organización visual de la información y aportar retroalimentación perceptiva al usuario durante el recorrido audiovisual.
+    p.mb-5 En el siguiente video se presenta una pieza audiovisual que integra ejemplos de  animaciones funcionales como títulos de entrada, rótulos informativos, transiciones entre escenas, movimientos de elementos en pantalla y señalizaciones gráficas que guían la atención y facilitan la comprensión del contenido.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ktueqR9IPuU?si=FJPSKN2Wo_m4mQP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Animaciones funcionales.
     p.mb-5 En este contexto, el desarrollo de animaciones funcionales se sustenta en diversos elementos que orientan su aplicación dentro del diseño interactivo. En la siguiente tabla se sintetizan los aspectos principales y su función dentro del entorno multimedia.
     .bg-2
@@ -319,12 +319,22 @@
                 p.mb-5.text-center Facilita la incorporación posterior de los recursos en la interfaz digital.
         .row.justify-content-center
           .col-xl-10
-            p.mb-5.text-center La adecuada integración preliminar de los recursos permite optimizar el proceso de producción multimedia, fortalecer la coherencia del producto digital y facilitar su implementación dentro del entorno interactivo.
+            p.mb-5.text-left La adecuada integración preliminar de los recursos permite optimizar el proceso de producción multimedia, fortalecer la coherencia del producto digital y facilitar su implementación dentro del entorno interactivo.
     p.mb-5 En este video se desarrollará el proceso de producción multimedia completa mediante la integración de guion técnico, recursos audiovisuales, imagen digital y animación. A partir de un ejercicio práctico, se construirá una cápsula multimedia desde su planeación hasta su edición básica, incorporando gráficos vectoriales, capturas visuales y ajustes de audio, con el fin de evidenciar la articulación funcional de los distintos componentes que conforman un producto multimedia.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Producción multimedia completa (video + gráficos + animación).
+    
+    p.mb-5 El siguiente video presenta un ejemplo del  paso a paso de la producción audiovisual que inicia con la organización de requerimientos, continúa con el diseño y la animación, y finaliza con la integración de audio y la exportación del producto final.
+
+
+    figure(data-aos="zoom-in").mb-0
+      .video.mb-1
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") #[b Video]. paso a paso.
+
+
 </template>
 
 <script>
