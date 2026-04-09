@@ -14,7 +14,7 @@
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema3/img1.png', alt='').m-auto
-    p.mb-5 Por ejemplo, un referente aplicado puede reconocerse en el video del curso Conservación de frutas y verduras, en el cual se integran locución explicativa, imágenes asociadas al contexto agroproductivo y elementos gráficos que sintetizan la información principal del programa formativo. Esta articulación de recursos audiovisuales favorece la contextualización temática, orienta el recorrido inicial del usuario dentro del entorno digital y contribuye a fortalecer la motivación para la continuidad del proceso de aprendizaje.
+    p.mb-5 Por ejemplo, un referente aplicado puede reconocerse en el video del curso conservación de frutas y verduras, en el cual se integran locución explicativa, imágenes asociadas al contexto agroproductivo y elementos gráficos que sintetizan la información principal del programa formativo. Esta articulación de recursos audiovisuales favorece la contextualización temática, orienta el recorrido inicial del usuario dentro del entorno digital y contribuye a fortalecer la motivación para la continuidad del proceso de aprendizaje.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/bA6DRqJKtwg" title="Fruit and vegetable preservation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -70,7 +70,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En contextos reales de producción multimedia, el guion técnico permite definir el propósito comunicativo, el tono narrativo, el ritmo de la secuencia audiovisual y la relación funcional entre imagen, sonido y texto. Esta organización anticipada favorece la articulación del trabajo entre los integrantes del equipo de producción y contribuye a optimizar el uso de recursos tecnológicos, así como la gestión del tiempo durante las etapas de desarrollo.
-    p.mb-5 Por ejemplo, en la planificación de una cápsula audiovisual similar al video del curso Conservación de frutas y verduras, el guion técnico puede establecer la presentación inicial del programa formativo, la inclusión progresiva de imágenes asociadas al contexto productivo, la incorporación de locución explicativa y la secuencia de mensajes orientados a motivar la participación del usuario. Esta estructuración previa facilita la coherencia narrativa del contenido, orienta la toma de decisiones durante la grabación o edición y reduce la improvisación en los procesos técnicos.
+    p.mb-5 Por ejemplo, en la planificación de una cápsula audiovisual similar al video del curso conservación de frutas y verduras, el guion técnico puede establecer la presentación inicial del programa formativo, la inclusión progresiva de imágenes asociadas al contexto productivo, la incorporación de locución explicativa y la secuencia de mensajes orientados a motivar la participación del usuario. Esta estructuración previa facilita la coherencia narrativa del contenido, orienta la toma de decisiones durante la grabación o edición y reduce la improvisación en los procesos técnicos.
     p.mb-3.text-center Un ejemplo aplicado de organización narrativa puede representarse mediante el siguiente guion técnico simplificado:
     .bg-3
       .px-5
@@ -164,7 +164,7 @@
       .col-xl
         .caja-tema1.mb-3(data-aos="fade-right")
           p.mb-0 Desde una perspectiva técnica, resulta necesario considerar factores como la iluminación, el encuadre, la estabilidad de la imagen y la calidad del sonido, ya que estos elementos inciden directamente en la comprensión del contenido y en la continuidad de la experiencia de interacción. Asimismo, la etapa de edición posibilita ajustar la duración de los planos, integrar transiciones, equilibrar niveles sonoros y organizar la secuencia narrativa de acuerdo con los objetivos comunicativos del producto multimedia.
-        p.mb-5.mb-lg-0 Por ejemplo, en una producción audiovisual educativa del curso Conservación de frutas y verduras, la grabación de planos de contexto productivo, la incorporación de mensajes locutados, el uso de rótulos informativos y la organización progresiva de las escenas permiten estructurar un contenido claro y comprensible. La edición técnica articula estos recursos mediante transiciones suaves, ajustes de duración y sincronización entre imagen y sonido, lo cual contribuye a mantener la atención del usuario y favorece la apropiación del mensaje formativo dentro del entorno digital.
+        p.mb-5.mb-lg-0 Por ejemplo, en una producción audiovisual educativa del curso conservación de frutas y verduras, la grabación de planos de contexto productivo, la incorporación de mensajes locutados, el uso de rótulos informativos y la organización progresiva de las escenas permiten estructurar un contenido claro y comprensible. La edición técnica articula estos recursos mediante transiciones suaves, ajustes de duración y sincronización entre imagen y sonido, lo cual contribuye a mantener la atención del usuario y favorece la apropiación del mensaje formativo dentro del entorno digital.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img14.png', alt='').m-auto
@@ -276,7 +276,7 @@
           .row.align-items-center
             .col-xl-7.mb-4.mb-lg-0
               p.mb-4 En entornos reales de producción multimedia, esta fase permite analizar la coherencia narrativa del contenido, valorar la continuidad gráfica entre las distintas piezas audiovisuales y anticipar posibles ajustes relacionados con la interacción del usuario. Asimismo, contribuye a fortalecer la articulación entre los equipos de diseño y desarrollo al disponer de una estructura organizada de los recursos digitales generados.
-              p.mb-0 Por ejemplo, en la preparación de un módulo interactivo que integra una cápsula audiovisual educativa como el video del curso Conservación de frutas y verduras, los archivos pueden organizarse en carpetas diferenciadas para video, audio, imágenes, rótulos animados y versiones editadas. Esta organización técnica facilita la localización de los recursos, optimiza el proceso de integración dentro de la plataforma digital y permite mantener control sobre las actualizaciones del contenido durante el flujo de producción.
+              p.mb-0 Por ejemplo, en la preparación de un módulo interactivo que integra una cápsula audiovisual educativa como el video del curso conservación de frutas y verduras, los archivos pueden organizarse en carpetas diferenciadas para video, audio, imágenes, rótulos animados y versiones editadas. Esta organización técnica facilita la localización de los recursos, optimiza el proceso de integración dentro de la plataforma digital y permite mantener control sobre las actualizaciones del contenido durante el flujo de producción.
             .col-xl-5
               .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                 h5 Figura 11.
@@ -327,7 +327,6 @@
       figcaption(data-aos="zoom-in") #[b Video]. Producción multimedia completa (video + gráficos + animación).
     
     p.mb-5 El siguiente video presenta un ejemplo del  paso a paso de la producción audiovisual que inicia con la organización de requerimientos, continúa con el diseño y la animación, y finaliza con la integración de audio y la exportación del producto final.
-
 
     figure(data-aos="zoom-in").mb-0
       .video.mb-1

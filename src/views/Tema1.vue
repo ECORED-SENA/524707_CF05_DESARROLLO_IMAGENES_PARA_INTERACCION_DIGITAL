@@ -71,7 +71,7 @@
               img(src='@/assets/curso/tema1/img10.png', alt='').m-auto
           .col-xl
             .caja-tema1.mb-3.ajuste-caja-tema1(data-aos="fade-left")
-              p.mb-0 Como ejemplo aplicado, a través de este apartado se revisará la interfaz de una plataforma digital de contenidos audiovisuales como #[b Aura Flow], con el fin de comprender la manera en que la línea gráfica se concreta en el entorno de interacción. En este caso, se analizará el uso constante de una paleta cromática definida, la organización jerárquica de los textos y la integración coherente de iconos y recursos gráficos presentes en las diferentes pantallas del sistema. Este análisis permitirá reconocer cómo se consolida una identidad visual estable que favorece la navegación y la comprensión del contenido.
+              p.mb-0 Como ejemplo aplicado, a través de este apartado se revisará la interfaz de una plataforma digital de contenidos audiovisuales como <i>#[b Aura Flow]</i>, con el fin de comprender la manera en que la línea gráfica se concreta en el entorno de interacción. En este caso, se analizará el uso constante de una paleta cromática definida, la organización jerárquica de los textos y la integración coherente de iconos y recursos gráficos presentes en las diferentes pantallas del sistema. Este análisis permitirá reconocer cómo se consolida una identidad visual estable que favorece la navegación y la comprensión del contenido.
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Definición del objetivo visual de la interfaz
@@ -131,12 +131,12 @@
           img(src="@/assets/curso/tema1/img19.svg" style="max-width: 60px").m-auto
       .col
         h3 Ejemplo de aplicación del objetivo visual en una interfaz digital
-    p.mb-5 Un ejemplo aplicado se reconoce en la interfaz de la plataforma musical digital #[b Aura Flow], en la que la pantalla inicial integra un menú lateral de navegación, una zona central con recomendaciones destacadas y un panel informativo complementario. La distribución jerárquica de las tarjetas de contenido, el uso de contrastes suaves y la ubicación estratégica de los controles de reproducción contribuyen a que el usuario identifique con rapidez las opciones principales y continúe su experiencia dentro del sistema.
+    p.mb-5 Un ejemplo aplicado se reconoce en la interfaz de la plataforma musical digital <i>#[b Aura Flow]</i>, en la que la pantalla inicial integra un menú lateral de navegación, una zona central con recomendaciones destacadas y un panel informativo complementario. La distribución jerárquica de las tarjetas de contenido, el uso de contrastes suaves y la ubicación estratégica de los controles de reproducción contribuyen a que el usuario identifique con rapidez las opciones principales y continúe su experiencia dentro del sistema.
     .row.justify-content-center.mb-5
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 1.
-          span Interfaz de la plataforma musical digital Aura Flow 
+          span Interfaz de la plataforma musical digital <i>Aura Flow</i>
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img20.jpg', alt='Ilustración de interfaz de plataforma musical digital con menú lateral de navegación, área central con tarjetas de contenidos recomendados, panel informativo complementario, encabezado superior con buscador y barra de control de reproducción en la parte inferior. ').m-auto
     p.mb-5.text-center Para comprender de manera estructurada los elementos presentes en este tipo de interfaz, se presenta la siguiente síntesis conceptual.
@@ -240,7 +240,7 @@
               img(src='@/assets/curso/tema1/img32.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Retícula de columnas
-            p.mb-0 Estructura utilizada en diseño web e interfaces que permite organizar contenidos en bloques ordenados y jerarquizados.
+            p.mb-0 Estructura utilizada en diseño <i>web</i> e interfaces que permite organizar contenidos en bloques ordenados y jerarquizados.
       .py-3.py-md-4(titulo="Márgenes y <i>paddings</i>")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
@@ -255,14 +255,14 @@
           img(src="@/assets/curso/tema1/img19.svg" style="max-width: 60px").m-auto
       .col
         h3 Ejemplo aplicado en una interfaz digital
-    p.mb-5 La construcción de la estructura gráfica puede comprenderse a partir del análisis de la interfaz de la plataforma de reproducción musical digital #[b Aura Flow]. En este tipo de entorno, la retícula base organiza la pantalla mediante un sistema de columnas que permite distribuir los elementos de manera ordenada y coherente.
+    p.mb-5 La construcción de la estructura gráfica puede comprenderse a partir del análisis de la interfaz de la plataforma de reproducción musical digital <i>#[b Aura Flow]</i>. En este tipo de entorno, la retícula base organiza la pantalla mediante un sistema de columnas que permite distribuir los elementos de manera ordenada y coherente.
     .bg-2
       .px-5
         .row.justify-content-center.mb-5
           .col-xl-6
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Figura 2.
-              span Retícula estructural aplicada a la interfaz digital de Aura Flow
+              span Retícula estructural aplicada a la interfaz digital de <i>Aura Flow</i>
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/img34.jpg', alt='Diagrama de estructura gráfica de interfaz digital basado en retícula de columnas que organiza panel lateral de navegación, zona central de contenidos y barra inferior de reproducción extendida.').m-auto
         p.mb-5 A partir de esta retícula, el espacio se divide en módulos claramente definidos. Un conjunto de columnas se destina al panel lateral de navegación, mientras que la zona central ocupa una mayor extensión para alojar las tarjetas de contenido musical. Esta asignación modular posibilita estructurar la interfaz sin afectar la consistencia del diseño.
@@ -300,7 +300,7 @@
           img(src="@/assets/curso/tema1/img19.svg" style="max-width: 60px").m-auto
       .col
         h3 Ejemplo aplicado en una interfaz digital
-    p.mb-5 La aplicación de criterios cromáticos y tipográficos puede comprenderse a partir del análisis de la interfaz de la plataforma de reproducción musical digital #[b Aura Flow]. En este entorno, el sistema cromático se define a partir de un color principal que se utiliza de manera constante en los botones de acción asociados a la reproducción de contenido. Esta repetición permite asociar determinadas tonalidades con funciones específicas dentro del entorno digital.
+    p.mb-5 La aplicación de criterios cromáticos y tipográficos puede comprenderse a partir del análisis de la interfaz de la plataforma de reproducción musical digital <i>#[b Aura Flow]</i>. En este entorno, el sistema cromático se define a partir de un color principal que se utiliza de manera constante en los botones de acción asociados a la reproducción de contenido. Esta repetición permite asociar determinadas tonalidades con funciones específicas dentro del entorno digital.
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-7
         .caja-tema1-2.ajuste-caja-tema1-3.mb-3(data-aos="fade-right")
@@ -310,11 +310,11 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/tema1/img38.svg', alt='' style="max-width: 90px")
           .col-xl
-            p.mb-4.mb-lg-0 En relación con la tipografía, la interfaz incorpora una familia sans serif que favorece la legibilidad en pantalla. Los títulos de secciones, como recomendaciones o tendencias, presentan mayor tamaño y peso tipográfico, lo que permite reconocer con claridad la organización informativa del contenido. Los textos descriptivos asociados a cada tarjeta musical utilizan tamaños menores y espaciados controlados, lo cual favorece una lectura progresiva dentro del entorno digital.
+            p.mb-4.mb-lg-0 En relación con la tipografía, la interfaz incorpora una familia <i>sans serif</i> que favorece la legibilidad en pantalla. Los títulos de secciones, como recomendaciones o tendencias, presentan mayor tamaño y peso tipográfico, lo que permite reconocer con claridad la organización informativa del contenido. Los textos descriptivos asociados a cada tarjeta musical utilizan tamaños menores y espaciados controlados, lo cual favorece una lectura progresiva dentro del entorno digital.
       .col-xl-5
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 3.
-          span Sistema cromático y tipográfico definido para la interfaz de la plataforma digital Aura Flow
+          span Sistema cromático y tipográfico definido para la interfaz de la plataforma digital <i>Aura Flow</i>
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img39.jpg', alt='Esquema de sistema cromático y tipográfico aplicado a interfaz digital con paleta de colores principal y secundaria, botones de acción destacados y estilos de texto jerarquizados para títulos y descripciones. ').m-auto
     .caja-tema1-3.mb-5(data-aos="flip-up")
@@ -330,7 +330,7 @@
           .col-xl-6
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Figura 4.
-              span Jerarquía de estilos tipográficos definidos para la interfaz de la plataforma digital Aura Flow
+              span Jerarquía de estilos tipográficos definidos para la interfaz de la plataforma digital <i>Aura Flow</i>
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/img41.jpg', alt='Tabla visual de jerarquía tipográfica en interfaz digital que presenta variaciones de tamaño, peso y espaciado en títulos, subtítulos y textos descriptivos. ').m-auto
         Separador
@@ -346,12 +346,12 @@
     .row.justify-content-center
       .col-xl-10
         .caja-tema1-4.mb-5(data-aos="zoom-in")
-          p.mb-4 En la interfaz de la plataforma #[b Aura Flow], la integración de recursos gráficos facilita la exploración de #[b contenidos audiovisuales y favorece la comprensión de las acciones disponibles dentro del sistema]. Por ejemplo, los iconos asociados a funciones como reproducción, búsqueda o configuración sintetizan acciones esenciales del entorno digital, lo cual reduce la carga textual y contribuye a una interacción más ágil.
+          p.mb-4 En la interfaz de la plataforma <i>#[b Aura Flow]</i>, la integración de recursos gráficos facilita la exploración de #[b contenidos audiovisuales y favorece la comprensión de las acciones disponibles dentro del sistema]. Por ejemplo, los iconos asociados a funciones como reproducción, búsqueda o configuración sintetizan acciones esenciales del entorno digital, lo cual reduce la carga textual y contribuye a una interacción más ágil.
           .row.justify-content-center.mb-4
             .col-xl-10
               .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                 h5 Figura 5.
-                span Integración compositiva de recursos gráficos e interactivos en la interfaz digital de la plataforma Aura Flow
+                span Integración compositiva de recursos gráficos e interactivos en la interfaz digital de la plataforma <i>Aura Flow</i>
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/img43.jpg', alt='Ilustración de integración de recursos gráficos en interfaz digital con iconos funcionales de reproducción y navegación, miniaturas de contenidos audiovisuales, elementos vectoriales de control y distribución compositiva equilibrada.').m-auto
           p.mb-0 Asimismo, las imágenes utilizadas como miniaturas de contenido permiten contextualizar la información presentada y establecer una relación inmediata con el usuario. Estos recursos se organizan dentro de la retícula de la interfaz respetando proporciones y jerarquías visuales, lo que contribuye al equilibrio compositivo de la pantalla y a la continuidad del recorrido de navegación.
@@ -362,7 +362,7 @@
       .col-xl
         p Las ilustraciones vectoriales integradas en elementos de control y navegación garantizan consistencia gráfica y adaptabilidad a diferentes resoluciones. Esta característica resulta especialmente relevante en productos multimedia diseñados para múltiples dispositivos, ya que favorece la claridad funcional incluso en entornos de pantalla reducida.
         .caja-tema1(data-aos="zoom-in")
-          p.mb-0 De igual manera, la composición equilibrada de los recursos gráficos en #[b Aura Flow] permite identificar con facilidad zonas funcionales como el panel de navegación, el área de contenidos destacados y la barra de control multimedia. Esta organización contribuye a disminuir la carga cognitiva del usuario y a fortalecer la continuidad de la interacción dentro del entorno digital.
+          p.mb-0 De igual manera, la composición equilibrada de los recursos gráficos en <i>#[b Aura Flow]</i> permite identificar con facilidad zonas funcionales como el panel de navegación, el área de contenidos destacados y la barra de control multimedia. Esta organización contribuye a disminuir la carga cognitiva del usuario y a fortalecer la continuidad de la interacción dentro del entorno digital.
     p.mb-5 A continuación, se sintetizan algunos recursos gráficos presentes en la interfaz analizada y su aporte dentro de la producción multimedia.
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")

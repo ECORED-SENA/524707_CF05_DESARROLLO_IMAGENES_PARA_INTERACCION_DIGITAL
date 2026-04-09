@@ -28,7 +28,7 @@
       figcaption(data-aos="zoom-in") #[b Video].    
     .bg-2
       .px-5
-        p.mb-5 A partir de un ejemplo aplicado en la plataforma digital de contenidos Aura Flow, es posible comprender cómo la organización visual de la interfaz contribuye a estructurar la interacción del usuario. En este entorno multimedia, la distribución funcional de los espacios facilita la exploración de contenidos, la ejecución de acciones de reproducción y la continuidad del recorrido dentro del sistema. A continuación, se describen las principales zonas funcionales y su aporte a la experiencia de navegación.
+        p.mb-5 A partir de un ejemplo aplicado en la plataforma digital de contenidos <i>Aura Flow</i>, es posible comprender cómo la organización visual de la interfaz contribuye a estructurar la interacción del usuario. En este entorno multimedia, la distribución funcional de los espacios facilita la exploración de contenidos, la ejecución de acciones de reproducción y la continuidad del recorrido dentro del sistema. A continuación, se describen las principales zonas funcionales y su aporte a la experiencia de navegación.
         .row.justify-content-center.mb-5
           .col-xl-8
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -52,7 +52,7 @@
                 p.mb-3 Incorpora funciones operativas como pausar, avanzar o ajustar el volumen. Su ubicación fija dentro de la pantalla garantiza continuidad en la interacción, ya que permite gestionar el contenido sin interrumpir el recorrido por la interfaz.
               .row(titulo="Panel").ajuste-cajaAcordion
                 p.mb-3 Espacio complementario de la interfaz ubicado en el costado derecho de la pantalla. Allí se agrupan elementos informativos y de interacción secundaria, como actividad reciente, sugerencias de contenido, notificaciones o accesos rápidos a funciones del sistema.
-    p.mb-0 La articulación entre organización funcional, rutas de navegación claras y respuestas interactivas consistentes permite consolidar una experiencia de interacción comprensible y alineada con los objetivos comunicativos del producto multimedia. Estos principios se desarrollan posteriormente en procesos aplicados de diseño de experiencia de usuario, en los cuales se integran la definición del usuario objetivo, la identificación de tareas, la construcción de arquitecturas de información, el diseño de flujos de navegación y la elaboración de wireframes como representaciones estructurales de la interfaz.
+    p.mb-0 La articulación entre organización funcional, rutas de navegación claras y respuestas interactivas consistentes permite consolidar una experiencia de interacción comprensible y alineada con los objetivos comunicativos del producto multimedia. Estos principios se desarrollan posteriormente en procesos aplicados de diseño de experiencia de usuario, en los cuales se integran la definición del usuario objetivo, la identificación de tareas, la construcción de arquitecturas de información, el diseño de flujos de navegación y la elaboración de <i>wireframes</i> como representaciones estructurales de la interfaz.
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Identificación del usuario y tareas
@@ -126,7 +126,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-xl-7
             .caja-tema1-2.ajuste-caja-tema1-3.mb-3(data-aos="fade-right")
-              p.mb-0 Por ejemplo, en una plataforma de contenidos como Aura Flow, puede identificarse un perfil de usuario que accede con el objetivo de explorar recomendaciones musicales y reproducir contenidos de manera inmediata. Esta característica influye en la priorización de tareas relacionadas con la búsqueda, la selección de contenido y la gestión de la reproducción, lo cual orienta la organización funcional de la interfaz y la estructuración de los flujos de navegación.
+              p.mb-0 Por ejemplo, en una plataforma de contenidos como <i>Aura Flow</i>, puede identificarse un perfil de usuario que accede con el objetivo de explorar recomendaciones musicales y reproducir contenidos de manera inmediata. Esta característica influye en la priorización de tareas relacionadas con la búsqueda, la selección de contenido y la gestión de la reproducción, lo cual orienta la organización funcional de la interfaz y la estructuración de los flujos de navegación.
             .row.justify-content-center.align-items-center
               .col-xl-auto(data-aos="zoom-in")
                 figure.d-none.d-xl-block
@@ -202,7 +202,7 @@
           .col-xl-7
             .caja-tema1-2.ajuste-caja-tema1-3.mb-3(data-aos="fade-right")
               p.mb-0 La adecuada organización estructural del contenido permite consolidar entornos digitales coherentes, comprensibles y orientados a facilitar la experiencia de interacción. Estos principios constituyen la base para la construcción de mapas de sitio, flujos de navegación y representaciones estructurales que se desarrollan en los procesos de diseño de experiencia de usuario.
-            p.mb-4.mb-lg-0 Un ejemplo aplicado puede reconocerse en la plataforma digital de contenidos Aura Flow, en la cual la arquitectura de información se organiza a partir de categorías principales como biblioteca, recomendaciones, listas personalizadas y exploración de contenidos. Estas secciones se integran en el menú de navegación y permiten estructurar el acceso progresivo a la información. A su vez, los subniveles de contenido se presentan mediante tarjetas jerarquizadas dentro del área central de la interfaz, lo que facilita la comprensión del sistema y optimiza el recorrido de interacción.
+            p.mb-4.mb-lg-0 Un ejemplo aplicado puede reconocerse en la plataforma digital de contenidos <i>Aura Flow</i>, en la cual la arquitectura de información se organiza a partir de categorías principales como biblioteca, recomendaciones, listas personalizadas y exploración de contenidos. Estas secciones se integran en el menú de navegación y permiten estructurar el acceso progresivo a la información. A su vez, los subniveles de contenido se presentan mediante tarjetas jerarquizadas dentro del área central de la interfaz, lo que facilita la comprensión del sistema y optimiza el recorrido de interacción.
           .col-xl-5
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Figura 8.
@@ -212,7 +212,7 @@
         Separador
         #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 2.3 Representación estructural de la interfaz
-        p.mb-5 La representación estructural de la interfaz se desarrolla mediante la elaboración de wireframes, los cuales constituyen esquemas funcionales que permiten definir la distribución de los elementos antes de su desarrollo gráfico definitivo. Estos recursos facilitan la organización preliminar de menús, botones, áreas de contenido y componentes interactivos, lo que contribuye a estructurar de manera coherente la experiencia de interacción dentro del producto multimedia.
+        p.mb-5 La representación estructural de la interfaz se desarrolla mediante la elaboración de <i>wireframes</i>, los cuales constituyen esquemas funcionales que permiten definir la distribución de los elementos antes de su desarrollo gráfico definitivo. Estos recursos facilitan la organización preliminar de menús, botones, áreas de contenido y componentes interactivos, lo que contribuye a estructurar de manera coherente la experiencia de interacción dentro del producto multimedia.
         .row.align-items-center.justify-content-center.mb-5
           .col-xl.mb-4.mb-lg-0(data-aos="fade-right")
             .caja-tema1
@@ -228,7 +228,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/tema2/img23.svg' style="max-width: 90px").m-auto
-            h4.mb-3.estilo-text #[i Wireframes]
+            h4.mb-3.estilo-text Wireframes
             p.mb-0.text-center Permiten definir la distribución funcional de los componentes antes del desarrollo gráfico final.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
@@ -268,7 +268,7 @@
           .col-xl-8
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Figura 9.
-              span #[i Wireframe] estructural de la interfaz de la plataforma Aura Flow
+              span #[i Wireframe] estructural de la interfaz de la plataforma <i>Aura Flow</i>
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/img29.png', alt='Wireframe de interfaz digital que presenta esquema estructural con menú lateral, área central de contenidos y barra inferior de control multimedia. ').m-auto
         p.mb-0 En esta etapa, la relación entre estructura y funcionalidad adquiere especial relevancia, ya que la disposición de los elementos debe responder a las tareas que el usuario necesita realizar. Garantizar que las funciones estén disponibles de manera clara y organizada contribuye a optimizar la interacción y a fortalecer la usabilidad del producto digital.
@@ -315,7 +315,7 @@
         .caja-tema1-3.mb-5(data-aos="flip-up")
           .row.align-items-center
             .col-xl.col-md-10.order-2.order-lg-1
-              p.mb-0 Un ejemplo aplicado puede reconocerse en la plataforma digital de contenidos Aura Flow, en la cual el flujo interactivo inicia con la exploración de categorías o recomendaciones destacadas en la pantalla principal. Posteriormente, el usuario puede acceder a listados de contenidos, seleccionar una pieza audiovisual y activar funciones de reproducción mediante la barra de control multimedia. Asimismo, el sistema permite retornar a secciones previas, continuar la exploración o acceder a nuevas sugerencias, lo que evidencia la existencia de rutas alternativas dentro del entorno digital.
+              p.mb-0 Un ejemplo aplicado puede reconocerse en la plataforma digital de contenidos <i>Aura Flow</i>, en la cual el flujo interactivo inicia con la exploración de categorías o recomendaciones destacadas en la pantalla principal. Posteriormente, el usuario puede acceder a listados de contenidos, seleccionar una pieza audiovisual y activar funciones de reproducción mediante la barra de control multimedia. Asimismo, el sistema permite retornar a secciones previas, continuar la exploración o acceder a nuevas sugerencias, lo que evidencia la existencia de rutas alternativas dentro del entorno digital.
             .col-xl-auto.col-md-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/tema1/img40.svg', alt='' style="width: 85px").m-auto
@@ -325,7 +325,7 @@
           .col-xl-6
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Figura 10.
-              span Diagrama de flujo del proceso de navegación en Aura Flow
+              span Diagrama de flujo del proceso de navegación en <i>Aura Flow</i>
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/img32.svg', alt='Diagrama de flujo interactivo de navegación con secuencia de acciones del usuario, rutas de acceso a contenidos y procesos de reproducción multimedia.').m-auto
     .row.align-items-center.justify-content-center.mb-5
@@ -335,7 +335,7 @@
       .col-xl-auto(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img33.png', alt='').m-auto
-    p.mb-5 En este video se desarrollará la construcción de la experiencia de usuario y el flujo de navegación dentro de un producto multimedia, integrando criterios de arquitectura de información, análisis de tareas y representación visual mediante wireframes. A través de un ejercicio práctico en tiempo real, se estructurará la propuesta UX desde la definición del usuario objetivo hasta la explicación de las decisiones de usabilidad que orientan la organización funcional del entorno digital.
+    p.mb-5 En este video se desarrollará la construcción de la experiencia de usuario y el flujo de navegación dentro de un producto multimedia, integrando criterios de arquitectura de información, análisis de tareas y representación visual mediante <i>wireframes</i>. A través de un ejercicio práctico en tiempo real, se estructurará la propuesta UX desde la definición del usuario objetivo hasta la explicación de las decisiones de usabilidad que orientan la organización funcional del entorno digital.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
