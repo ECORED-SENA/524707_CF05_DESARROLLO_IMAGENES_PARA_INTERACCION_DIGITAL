@@ -409,10 +409,11 @@
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.6 Construcción aplicada en productos multimedia
     p.mb-5 En el desarrollo de productos multimedia interactivos, la definición de una línea gráfica constituye un proceso fundamental para garantizar coherencia visual, claridad comunicativa y continuidad en la experiencia de interacción del usuario. En este videotutorial se presentará un ejercicio aplicado orientado a la construcción de una línea gráfica institucional, tomando como referencia criterios de identidad visual del SENA. A través de la demostración práctica se explicará la selección de la paleta cromática, la definición de estilos tipográficos, la organización compositiva de los elementos gráficos y la integración de recursos visuales dentro de una interfaz digital. Este recorrido permitirá comprender cómo los principios del diseño visual se concretan en decisiones técnicas que orientan la producción de contenidos multimedia funcionales y coherentes.
+
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") #[b Video]. 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9vqulWUg8dg?si=oQnIzIF7xJv7kQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") #[b  Video ] Diseño visual aplicado a una interfaz real. 
 </template>
 
 <script>
