@@ -24,8 +24,8 @@
     p.mb-5 A continuación, se presenta un video que aborda los elementos esenciales de la experiencia de interacción en el diseño de productos digitales, con el propósito de comprender su impacto en la organización, navegación y uso de entornos multimedia.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") #[b Video].    
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QS-phTJz5VE?si=yhkoYpzcQz7A61P-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") #[b Construcción de experiencia de usuarios UX y flujo de navegación].    
     .bg-2
       .px-5
         p.mb-5 A partir de un ejemplo aplicado en la plataforma digital de contenidos <i>Aura Flow</i>, es posible comprender cómo la organización visual de la interfaz contribuye a estructurar la interacción del usuario. En este entorno multimedia, la distribución funcional de los espacios facilita la exploración de contenidos, la ejecución de acciones de reproducción y la continuidad del recorrido dentro del sistema. A continuación, se describen las principales zonas funcionales y su aporte a la experiencia de navegación.
@@ -338,7 +338,7 @@
     p.mb-5 En este video se desarrollará la construcción de la experiencia de usuario y el flujo de navegación dentro de un producto multimedia, integrando criterios de arquitectura de información, análisis de tareas y representación visual mediante <i>wireframes</i>. A través de un ejercicio práctico en tiempo real, se estructurará la propuesta UX desde la definición del usuario objetivo hasta la explicación de las decisiones de usabilidad que orientan la organización funcional del entorno digital.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yCE8oIEDA3s?si=Ump2pqwrnKUi37mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Construcción de experiencia de usuario (UX) y flujo de navegación.
 </template>
 
