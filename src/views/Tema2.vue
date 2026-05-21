@@ -124,7 +124,7 @@
     .bg-2
       .px-5
         .row.justify-content-center.align-items-center.mb-0
-          .col-xl-7
+          .col-xl-7.mb-4.mb-xl-0
             .caja-tema1-2.ajuste-caja-tema1-3.mb-3(data-aos="fade-right")
               p.mb-0 Por ejemplo, en una plataforma de contenidos como <i>Aura Flow</i>, puede identificarse un perfil de usuario que accede con el objetivo de explorar recomendaciones musicales y reproducir contenidos de manera inmediata. Esta característica influye en la priorización de tareas relacionadas con la búsqueda, la selección de contenido y la gestión de la reproducción, lo cual orienta la organización funcional de la interfaz y la estructuración de los flujos de navegación.
             .row.justify-content-center.align-items-center

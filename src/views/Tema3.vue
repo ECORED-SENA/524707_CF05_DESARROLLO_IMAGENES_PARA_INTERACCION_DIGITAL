@@ -14,7 +14,7 @@
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema3/img1.png', alt='').m-auto
-    p.mb-5 Por ejemplo, un referente aplicado puede reconocerse en el video del curso conservación de frutas y verduras, en el cual se integran locución explicativa, imágenes asociadas al contexto agroproductivo y elementos gráficos que sintetizan la información principal del programa formativo. Esta articulación de recursos audiovisuales favorece la contextualización temática, orienta el recorrido inicial del usuario dentro del entorno digital y contribuye a fortalecer la motivación para la continuidad del proceso de aprendizaje.
+    p.mb-5 Por ejemplo, un referente aplicado puede reconocerse en el video del curso Conservación de frutas y verduras, en el cual se integran locución explicativa, imágenes asociadas al contexto agroproductivo y elementos gráficos que sintetizan la información principal del programa formativo. Esta articulación de recursos audiovisuales favorece la contextualización temática, orienta el recorrido inicial del usuario dentro del entorno digital y contribuye a fortalecer la motivación para la continuidad del proceso de aprendizaje.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/bA6DRqJKtwg" title="Fruit and vegetable preservation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

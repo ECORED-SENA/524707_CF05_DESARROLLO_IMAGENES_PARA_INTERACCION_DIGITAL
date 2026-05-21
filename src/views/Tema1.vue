@@ -354,7 +354,7 @@
                 span Integración compositiva de recursos gráficos e interactivos en la interfaz digital de la plataforma <i>Aura Flow</i>
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/img43.jpg', alt='Ilustración de integración de recursos gráficos en interfaz digital con iconos funcionales de reproducción y navegación, miniaturas de contenidos audiovisuales, elementos vectoriales de control y distribución compositiva equilibrada.').m-auto
-          p.mb-0 Asimismo, las imágenes utilizadas como miniaturas de contenido permiten contextualizar la información presentada y establecer una relación inmediata con el usuario. Estos recursos se organizan dentro de la retícula de la interfaz respetando proporciones y jerarquías visuales, lo que contribuye al equilibrio compositivo de la pantalla y a la continuidad del recorrido de navegación.
+          p.mb-0 Asimismo, las imágenes utilizadas como miniaturas de contenido permiten contextualizar la información presentada y establecer una relación inmediata con el usuario. Estos recursos se organizan dentro de la retícula de la interfaz, respetando proporciones y jerarquías visuales, lo que contribuye al equilibrio compositivo de la pantalla y a la continuidad del recorrido de navegación.
     .row.align-items-center.justify-content-center.mb-5
       .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         figure

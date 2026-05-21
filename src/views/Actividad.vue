@@ -20,7 +20,7 @@ export default {
       tema: 'Diseño visual, UX y producción de contenidos multimedia',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos, procesos, principios de diseño, UX, narrativa, producción gráfica, audiovisual, animación desarrollados en el Componente Formativo.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos, procesos, principios de diseño, UX, narrativa, producción gráfica, audiovisual, animación desarrollados en el Componente Formativo.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

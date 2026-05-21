@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/524707_CF5_DU.pdf',
+        download: 'downloads/524707_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -224,56 +224,58 @@ export default {
   referencias: [
     {
       referencia:
-        'Adobe. (2024). Ayuda de Premiere Pro (escritorio). Centro de ayuda de Adobe.',
+        'Adobe. (2024). <i>Ayuda de Premiere Pro (escritorio)</i>. Centro de ayuda de Adobe.',
       link: '',
     },
     {
-      referencia: 'Autodesk. (2026). Autodesk Latinoamérica.',
+      referencia: 'Autodesk. (2026). <i>Autodesk Latinoamérica</i>.',
       link: '',
     },
     {
-      referencia: 'Blender Foundation. (2026). Blender: software de animación.',
+      referencia:
+        'Blender Foundation. (2026). <i>Blender: software de animación</i>.',
       link: '',
     },
     {
-      referencia: 'Dragonframe. (2026). Tutoriales de Dragonframe.',
+      referencia: 'Dragonframe. (2026). <i>Tutoriales de Dragonframe</i>.',
       link: 'https://www.dragonframe.com/es/tutorials/',
     },
     {
-      referencia: 'Garrett, J. J. (2011). The elements of user experience.',
+      referencia:
+        'Garrett, J. J. (2011). <i>The elements of user experience</i>.',
       link:
         'https://www.academia.edu/33276128/The_Elements_of_User_Experience_Jesse_James_Garrett',
     },
     {
       referencia:
-        'ISO. (2019). ISO 9241-210: Ergonomics of human-system interaction — Human-centred design for interactive systems.',
+        'ISO. (2019). <i>ISO 9241-210: Ergonomics of human-system interaction — Human-centred design for interactive systems</i>.',
       link: '',
     },
     {
       referencia:
-        'Lasseter, J. (1987). Principles of traditional animation applied to 3D computer animation.',
+        'Lasseter, J. (1987). <i>Principles of traditional animation applied to 3D computer animation</i>.',
       link: 'https://dl.acm.org/doi/10.1145/37401.37407',
     },
     {
       referencia:
-        'Morgan, K. (2004). Information visualization: perception for design (2nd ed.).',
+        'Morgan, K. (2004). <i>Information visualization: perception for design (2nd ed.)</i>.',
       link:
         'https://www.researchgate.net/publication/224285723_Information_Visualization_Perception_for_Design_Second_Edition',
     },
     {
       referencia:
-        'World Wide Web Consortium (W3C). (2025, mayo 6). Web content accessibility guidelines (WCAG) 2.1.',
+        'World Wide Web Consortium (W3C). (2025, mayo 6). <i>Web content accessibility guidelines (WCAG) 2.1</i>.',
       link: 'https://www.w3.org/TR/WCAG21/',
     },
     {
       referencia:
-        'Zambrano Carbo, L. E. (2015). La estructura de las historias: la propuesta de Robert McKee.',
+        'Zambrano Carbo, L. E. (2015). <i>La estructura de las historias: la propuesta de Robert McKee</i>.',
       link:
         'https://www.academia.edu/11276761/4_LA_ESTRUCTURA_DE_LAS_HISTORIAS_LA_PROPUESTA_DE_ROBERT_MCKEE',
     },
     {
       referencia:
-        'Zettl, H. (2017). Sight, sound, motion: applied media aesthetics.',
+        'Zettl, H. (2017). <i>Sight, sound, motion: applied media aesthetics</i>.',
       link: 'https://faculty.cengage.com/works/9781305578906',
     },
   ],
@@ -288,7 +290,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -299,6 +301,25 @@ export default {
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Experto temático. Experiencia UX ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Jose Eduardo Solano Rivero',
+          cargo: 'Experto temático. Producción audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Yerson Fabian Zárate Saavedra',
+          cargo:
+            'Experto temático. Desarrollo visual de experiencias digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -343,7 +364,12 @@ export default {
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
-
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
         {
           nombre: 'Maria Carolina Tamayo Lopez',
           cargo: 'Locución',
