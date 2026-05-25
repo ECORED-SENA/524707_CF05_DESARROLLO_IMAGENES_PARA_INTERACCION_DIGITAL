@@ -321,7 +321,7 @@
           .col-xl-10
           p.mb-5.text-left La adecuada integración preliminar de los recursos permite optimizar el proceso de producción multimedia, fortalecer la coherencia del producto digital y facilitar su implementación dentro del entorno interactivo.
     p.mb-5 En este video se desarrollará el proceso de producción multimedia completa mediante la integración de guion técnico, recursos audiovisuales, imagen digital y animación. A partir de un ejercicio práctico, se construirá una cápsula multimedia desde su planeación hasta su edición básica, incorporando gráficos vectoriales, capturas visuales y ajustes de audio, con el fin de evidenciar la articulación funcional de los distintos componentes que conforman un producto multimedia.
-    figure(data-aos="zoom-in").mb-0
+    figure(data-aos="zoom-in").mb-5
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eMVacKdwRqU?si=er5yoKZ_2bCgPCbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Producción recursos audiovisuales

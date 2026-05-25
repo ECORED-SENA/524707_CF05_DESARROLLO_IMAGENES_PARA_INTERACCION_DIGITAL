@@ -338,7 +338,7 @@
     p.mb-5 En este video se desarrollará la construcción de la experiencia de usuario y el flujo de navegación dentro de un producto multimedia, integrando criterios de arquitectura de información, análisis de tareas y representación visual mediante <i>wireframes</i>. A través de un ejercicio práctico en tiempo real, se estructurará la propuesta UX desde la definición del usuario objetivo hasta la explicación de las decisiones de usabilidad que orientan la organización funcional del entorno digital.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/yCE8oIEDA3s?si=Ump2pqwrnKUi37mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZSg9ElB8jyY?si=Ulmluu4f_xzB6agn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Construcción de experiencia de usuario (UX) y flujo de navegación.
 </template>
 

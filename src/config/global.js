@@ -325,7 +325,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'Experto temático',
+          cargo: 'Evaluadora instruccional',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
